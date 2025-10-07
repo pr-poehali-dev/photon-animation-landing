@@ -1,0 +1,3 @@
+# photon-animation-landing
+
+Initial repository setup for pr-poehali-dev/photon-animation-landing
